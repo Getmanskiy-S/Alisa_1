@@ -5,3 +5,4 @@ Flask-Login
 WTForms
 Flask-RESTful
 Flask
+urllib3==1.26.6
